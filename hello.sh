@@ -16,3 +16,12 @@ read username
 echo " you entered $username"
 
 i want to push my file to remote repo 
+
+my name os skr 
+from odisha 
+
+
+
+
+
+
