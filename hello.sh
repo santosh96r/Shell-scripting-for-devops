@@ -2,7 +2,6 @@ this is my new file
 
 <new changes i want to do >need to check the conflict issue 
 
-<<<<<<< HEAD
 echo " tws : hello dosto "
 
 echo "learners : we will subscribe the channel ok!"
