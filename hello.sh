@@ -1,11 +1,8 @@
-#!/bin/bash
+this is my new file
 
-<<comment 
-anything 
-written 
-here , wont be executed 
-comment
+<new changes i want to do >need to check the conflict issue 
 
+<<<<<<< HEAD
 echo " tws : hello dosto "
 
 echo "learners : we will subscribe the channel ok!"
@@ -19,5 +16,4 @@ read username
 
 echo " you entered $username"
 
-dnkjdsngds
-djkdbgdj
+i want to push my file to remote repo 
